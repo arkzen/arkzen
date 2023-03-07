@@ -14,6 +14,8 @@ A Software Developer and problem solver having experience in building Mobile app
 
 #### Others: Git | Figma | Firebase | MySQL
 
+#### Architecture: MVVM
+
 ## My Handles
  [<img src="https://img.shields.io/badge/AsikurRahman-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/the-asikur-rahman/)
  [<img src="https://img.shields.io/badge/AsikurRahman-151515?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/TheAsikurRahman) 
