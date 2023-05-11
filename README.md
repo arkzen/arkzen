@@ -1,14 +1,14 @@
 ### Hi there 👋 I'm Md. Asikur Rahman
-A Software Developer and problem solver having experience in building Mobile applications with Java and other programming languages, libraries, and frameworks.
+A Software Developer and problem solver having experience in various programming languages, libraries, and frameworks.
 
 
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arkzen&show_icons=true&count_private=true&theme=dark" alt="AsikurRahman" />
 
 ### My Stacks
-#### Languages: C++ | Java 
+#### Languages: JavaScript | C++ | Java 
 
-#### Frontend: XML | HTML |  CSS
+#### Frontend: XML | HTML |  CSS | React
 
 #### Backend: Java | PHP 
 
