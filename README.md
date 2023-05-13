@@ -12,6 +12,8 @@ A Software Developer and problem solver having experience in various programming
 
 #### Backend: Java | PHP 
 
+#### DevOps: Docker | Kubernetes | Jenkins
+
 #### Others: Git | Figma | Firebase | MySQL
 
 #### Architecture: MVVM
