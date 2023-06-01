@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Md. Asikur Rahman
-An Android Developer and problem solver having experience in various programming languages, libraries, and frameworks. Please visit [my personal portfolio](https://asikur.netlify.com/) website to know more about me.
+An Android Developer and problem solver having experience in various programming languages, libraries, and frameworks. 
+Please visit [my personal portfolio](https://asikur.netlify.com/) website to know more about me.
 
 
 ### My Github Stats
